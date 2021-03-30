@@ -1,14 +1,31 @@
-* {margin:0;
-  padding:0;
+
+
+
+#main {
+
 }
 
 
+#title {
+
+}
+
 #img-div {
-  margin: auto;
-  width: 50%;
-  padding: 11px;
+
+}
+
+#image {
+
+}
+
+#img-caption {
+
 }
 
 #tribute-info {
-  text-align: center;
+
+}
+
+#tribute-link {
+
 }
