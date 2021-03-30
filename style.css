@@ -1,4 +1,7 @@
-
+* {
+margin: 0;
+padding: 0;
+}
 
 
 #main {
@@ -7,7 +10,7 @@ display: center;
 
 
 #title {
-
+text-align: center;
 }
 
 #img-div {
@@ -25,8 +28,13 @@ display: center;
 #tribute-info {
 margin: auto;
 width: 80%;
+word-spacing: 0.2em;
+text-align: center;
 }
 
 #tribute-link {
-
+text-decoration: black;
+}
+a:hover {
+  color: blue;
 }
