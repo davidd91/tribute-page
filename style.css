@@ -2,7 +2,7 @@
 
 
 #main {
-
+display: center;
 }
 
 
@@ -23,7 +23,8 @@
 }
 
 #tribute-info {
-
+margin: auto;
+width: 80%;
 }
 
 #tribute-link {
