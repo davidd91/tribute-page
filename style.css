@@ -16,9 +16,7 @@ display: center;
 text-align: center;
 }
 
-#img-div {
 
-}
 
 #image {
   width: 100%;
@@ -40,9 +38,3 @@ word-spacing: 0.2em;
 text-align: center;
 }
 
-#tribute-link {
-
-}
-a:hover {
-  color: rgb(31, 76, 197);
-}
